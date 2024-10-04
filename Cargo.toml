@@ -1,8 +1,11 @@
 [package]
 name = "snx"
-description = "an experimental web framework"
-version = "0.1.0"
+version = "0.0.1"
+authors = ["Julian Ollivieira"]
 edition = "2021"
+description = "an experimental web framework"
+documentation = "https://docs.rs/snx"
+repository = "https://github.com/julianollivieira/snx"
 license = "MIT"
 
 [dependencies]
